@@ -1,0 +1,15 @@
+/Users/jcca/MyApp/bin/Debug/net6.0/MyApp
+/Users/jcca/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/jcca/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/jcca/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/jcca/MyApp/bin/Debug/net6.0/ref/MyApp.dll
+/Users/jcca/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/jcca/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/jcca/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
